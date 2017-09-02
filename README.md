@@ -1,2 +1,2 @@
-# CV-Express v1
+# CV-Express v1.41
 Expression pedal interface
